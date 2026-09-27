@@ -6,3 +6,18 @@ __pycache__/
 *.py[cod]
 .DS_Store
 Thumbs.db
+
+# Materiais locais que não fazem parte da entrega final
+Projeto_Aplicado_AI_Index.ipynb
+Projeto_aplicado_20262.pdf
+ROTEIRO_VIDEO.md
+ROTEIRO_VIDEO_PROJETO_FINAL.md
+
+# Na base pública, versionar somente os dois CSVs usados pelo notebook final
+AI_INDEX_REPORT_2026/*
+!AI_INDEX_REPORT_2026/4. Economy/
+AI_INDEX_REPORT_2026/4. Economy/*
+!AI_INDEX_REPORT_2026/4. Economy/Data/
+AI_INDEX_REPORT_2026/4. Economy/Data/*
+!AI_INDEX_REPORT_2026/4. Economy/Data/fig_4.2.1.csv
+!AI_INDEX_REPORT_2026/4. Economy/Data/fig_4.3.1(1).csv
