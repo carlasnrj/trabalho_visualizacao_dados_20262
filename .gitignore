@@ -1,5 +1,6 @@
 .venv/
 .venv-1/
+Notebooks_Aula/
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
